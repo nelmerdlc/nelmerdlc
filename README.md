@@ -1,5 +1,5 @@
-## Hi 👋 — I'm Nelmer De La Cruz, Senior Product Designer in NYC.
-#### I use design thinking to humanize tomorrow's computing—exploring how products can use emerging tech.
+## Hi 👋 — I'm Nelmer De La Cruz, Senior Product Designer in NYC
+### I use design thinking to humanize tomorrow's computing and innovation with emerging tech
 My philosophy orbits around creating scalable and performant UI components that work across multiple platforms.
 
 <!--
