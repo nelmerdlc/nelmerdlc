@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi 👋 — I'm Nelmer De La Cruz, Senior Product Designer in NYC.
+#### I use design thinking to humanize tomorrow's computing—exploring how products can use emerging tech.
+My philosophy orbits around creating scalable and performant UI components that work across multiple platforms.
 
 <!--
 **nelmerdlc/nelmerdlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
